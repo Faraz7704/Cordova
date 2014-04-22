@@ -47,7 +47,7 @@ body {
 
 /* Portrait layout (default) */
 .app {
-    background:url(../img/logo.png) no-repeat center top; /* 170px x 200px */
+    background:url(https://fbcdn-photos-g-a.akamaihd.net/hphotos-ak-frc3/t1.0-0/1902904_775171899168461_5194058330843133400_a.jpg?dl=1) no-repeat center top; /* 170px x 200px */
     position:absolute;             /* position in the center of the screen */
     left:50%;
     top:50%;
